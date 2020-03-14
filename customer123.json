@@ -1,0 +1,24 @@
+{
+    "name": "Eugine Smith",
+    "email": "EugineSmith@GetCouched.com",
+    "addresses": {
+      "billing": {
+        "line1": "123 Any Street",
+        "line2": "Anytown",
+        "country": "United States"
+      },
+      "delivery": {
+        "line1": "123 Any Street",
+        "line2": "Anytown",
+        "country": "United States"
+      }
+    },
+    "purchases": {
+      "complete": [
+        339, 976, 442, 666
+      ],
+      "abandoned": [
+        157, 42, 999
+      ]
+    }
+  }
